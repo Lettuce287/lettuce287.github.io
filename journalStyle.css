@@ -65,3 +65,9 @@ h1 {
     font-weight: 600;
 }
 
+.falstadt {
+    text-decoration: none;
+    font-size: 25px;
+    font-family: arial;
+    font-weight: bold;
+}
